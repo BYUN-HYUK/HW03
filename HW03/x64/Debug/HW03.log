@@ -1,0 +1,37 @@
+﻿  HW03.cpp
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(16,2): error C2590: 'SimpleVecotr': only a constructor can have a base/member initializer list
+      C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(16,2):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(5,7):
+          while compiling class template 'SimpleVector'
+  
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(18,3): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(18,3): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(18,78): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(18,78): error C2065: 'endl': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(23,4): error C2065: 'cerr': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(23,4): error C3861: 'cerr': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(23,25): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(30,3): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(30,3): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(30,89): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(23,25): error C2065: 'endl': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(30,89): error C2065: 'endl': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(36,3): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(36,3): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(43,4): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(43,4): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(43,77): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(46,4): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(46,4): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(46,133): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(43,77): error C2065: 'endl': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(46,133): error C2065: 'endl': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(53,4): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(53,4): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(53,57): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(56,4): error C2065: 'cout': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(56,4): error C3861: 'cout': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(56,82): error C3861: 'endl': identifier not found
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(53,57): error C2065: 'endl': undeclared identifier
+C:\Users\admin\Desktop\HW03\HW03\HW03.cpp(56,82): error C2065: 'endl': undeclared identifier
